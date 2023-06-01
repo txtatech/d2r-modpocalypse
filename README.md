@@ -37,3 +37,5 @@ Version 4.0.0.871 (Unicode Build) that uses StormLib v 9.23 works well for me.
 http://zezula.net/en/mpq/download.html
 
 **Step 3:** Start modding!
+
+More to be added...
