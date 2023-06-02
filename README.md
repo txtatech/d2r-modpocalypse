@@ -52,21 +52,26 @@ HD & SD user interface data:
 data/global/ui/layouts
 
 HD graphics:
+
 data/global/hd
 
 SD graphics:
+
 data/global
 
 HD & SD Excel data:
+
 data/global/excel
 
 Localized data, utilized by HD & SD:
-data/local/lng
 
-More to be added...
+data/local/lng
 
 **Misc:**
 
 Online character editor:
 
 https://d2s.dschu012.dev/
+
+
+More to be added...
