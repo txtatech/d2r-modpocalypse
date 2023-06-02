@@ -23,7 +23,7 @@ https://d2mods.info/forum/viewforum.php?f=217
 Nexusmods (D2R Section):
 https://www.nexusmods.com/diablo2resurrected
 
-**GETTING STARTED**
+## **GETTING STARTED**
 
 There are several ways to mod but my prefered method is with .mpq files so I will focus on that method alone.
 
@@ -41,31 +41,39 @@ http://zezula.net/en/mpq/download.html
 
 **Step 3:** Open a .json file in a text editor and start modding!
 
-**Regerences & File Locations:**
+## **Regerences & File Locations:**
 
-The official Diablo II Data File Guide: (Note this is mainly for making excel edits.)
+**The official Diablo II Data File Guide:** (Note this is mainly for making excel edits.)
 
 data/global/excel/_diabloiidatafileguide.mht
 
-HD & SD user interface data:
+**HD & SD user interface data:**
 
 data/global/ui/layouts
 
-HD graphics:
+**HD graphics:**
 
 data/global/hd
 
-SD graphics:
+**SD graphics:**
 
 data/global
 
-HD & SD Excel data:
+**HD & SD Excel data:**
 
 data/global/excel
 
-Localized data, utilized by HD & SD:
+**Localized data, utilized by HD & SD:**
 
 data/local/lng
+
+**The following example is from one of the .json files:**
+
+"filename": "FrontEnd\\HD\\Final\\FrontEnd_ButtonMed",
+
+*The above location would resolve to the following location:*
+
+"C:\data\hd\global\ui\frontend\hd\final\frontend_buttonmed.sprite" (Note: the 'data' folder is located wherever you extract the game files to.)
 
 **Misc:**
 
