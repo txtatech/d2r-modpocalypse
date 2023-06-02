@@ -41,7 +41,7 @@ http://zezula.net/en/mpq/download.html
 
 **Step 3:** Open a .json file in a text editor and start modding!
 
-## **Regerences & File Locations:**
+## **References & File Locations:**
 
 **The official Diablo II Data File Guide:** (Note this is mainly for making excel edits.)
 
