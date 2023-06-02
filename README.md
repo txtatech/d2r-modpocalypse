@@ -8,11 +8,14 @@ This repository is not intended to be a comprehensive modding guide and is more 
 
 If you are looking for comprehensive guides and/or examples check out the following sites:
 
-D2:R Modding Resource Site:
-https://www.d2rmodding.com/
+HighTechLowIQ D2R Modding:
+https://github.com/HighTechLowIQ/ModdingDiablo2Resurrected
 
-HighTechLowIQ D2R Modding Videos:
-https://www.youtube.com/watch?v=VqSrUiq1eQo&list=PLADrErN79JLz0TNJOYzs4c17GMu_4F5Z-
+Bonesy D2R Modding Video Guides:
+https://www.youtube.com/@locbones1
+
+D2R Modding Resource Site:
+https://www.d2rmodding.com/
 
 The Phrozen Keep (D2R Discussion Thread)
 https://d2mods.info/forum/viewforum.php?f=217
@@ -36,6 +39,34 @@ Version 4.0.0.871 (Unicode Build) that uses StormLib v 9.23 works well for me.
 
 http://zezula.net/en/mpq/download.html
 
-**Step 3:** Start modding!
+**Step 3:** Open a .json file in a text editor and start modding!
+
+**Regerences & File Locations:**
+
+The official Diablo II Data File Guide: (Note this is mainly for making excel edits.)
+
+data/global/excel/_diabloiidatafileguide.mht
+
+HD & SD user interface data:
+
+data/global/ui/layouts
+
+HD graphics:
+data/global/hd
+
+SD graphics:
+data/global
+
+HD & SD Excel data:
+data/global/excel
+
+Localized data, utilized by HD & SD:
+data/local/lng
 
 More to be added...
+
+**Misc:**
+
+Online character editor:
+
+https://d2s.dschu012.dev/
